@@ -859,7 +859,7 @@ const Services = () => {
       },
       {
         name: "Sourav Dhar",
-        date: "May 2024",
+        date: "June 2025",
         avatar: "s.png",
         rating: 5,
         review:
