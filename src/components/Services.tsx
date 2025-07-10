@@ -851,7 +851,7 @@ const Services = () => {
     {[
       {
         name: "Ankit Biswas",
-        date: "June 2024",
+        date: "March 2025",
         avatar: "a.png",
         rating: 5,
         review:
@@ -867,7 +867,7 @@ const Services = () => {
       },
       {
         name: "Amitava Dey",
-        date: "April 2024",
+        date: "April 2025",
         avatar: "a2.png",
         rating: 5,
         review:
